@@ -20,9 +20,9 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/developer-desk.jpg";
 
-const imageAltText = "Design desk with computer, coffee, and notebook";
+const imageAltText = "Development laptop with code on screen sitting on desk next to small potted cactus";
 
 const Home = ({ name, title }) => {
   return (
